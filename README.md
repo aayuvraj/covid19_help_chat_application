@@ -1,3 +1,12 @@
+# [Live Demo](https://covid19helpinfo.netlify.app/)
+
+# Login Credentials:
+* username:temp0, password:12345
+* username:temp1, password:12345
+
+# Live Snapshots:
+<img src="https://github.com/aayuvraj/covid19_help_chat_application/blob/master/live_demo.gif" width="790" height="400">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
